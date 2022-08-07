@@ -21,6 +21,9 @@
   height: 19.4rem;
 }
 
+
+/***************** customize css **********/
+@import "custom.css"
 .image-with-text__media--large {
   height: 43.5rem;
 }
