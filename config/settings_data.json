@@ -105,7 +105,6 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "text": "Kitchen Utensils 2 Store - Shopify Web Design",
               "color_scheme": "accent-1",
