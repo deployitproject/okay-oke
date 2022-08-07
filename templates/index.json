@@ -58,16 +58,25 @@
             "heading_size": "h1"
           }
         },
-        "text": {
-          "type": "text",
+        "b70392a3-cfff-46c5-a2a6-3c35d5770144": {
+          "type": "heading",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "heading": "<p>We know that your home is important to you, just like providing a beautiful product at a value price is important to us.<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "610554af-cc59-4c8f-8380-122025cca0ec": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "b70392a3-cfff-46c5-a2a6-3c35d5770144",
+        "610554af-cc59-4c8f-8380-122025cca0ec"
       ],
       "settings": {
         "desktop_content_position": "center",
