@@ -1,3 +1,5437 @@
-body {
-  border: 4px solid red;
-}
+/* Kitchen Toolls */
+
+position: relative;
+width: 1440px;
+height: 6575px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 1440px;
+height: 836px;
+left: -17px;
+top: 4840px;
+
+background: #F9F9F9;
+
+
+/* Frame 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 530px;
+
+position: absolute;
+width: 1238px;
+height: 385px;
+left: 101px;
+top: 3073px;
+
+
+
+/* Frame 9 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 50px;
+
+width: 346px;
+height: 385px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 17px;
+
+width: 346px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 7px;
+
+width: 279px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Stable heat distribution */
+
+width: 279px;
+height: 28px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 115.7%;
+/* identical to box height, or 28px */
+text-align: right;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+width: 222px;
+height: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+/* or 32px */
+text-align: right;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 50px;
+height: 50px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 17px;
+
+width: 346px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 7px;
+
+width: 279px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Eco Friendly */
+
+width: 279px;
+height: 28px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 115.7%;
+/* identical to box height, or 28px */
+text-align: right;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+width: 222px;
+height: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+/* or 32px */
+text-align: right;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 50px;
+height: 50px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 17px;
+
+width: 346px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 7px;
+
+width: 279px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Easy Cleaning */
+
+width: 279px;
+height: 28px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 115.7%;
+/* identical to box height, or 28px */
+text-align: right;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+width: 222px;
+height: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+/* or 32px */
+text-align: right;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 50px;
+height: 50px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 10 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 50px;
+
+width: 362px;
+height: 385px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 17px;
+
+width: 362px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 50px;
+height: 50px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 7px;
+
+width: 295px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Stable heat distribution */
+
+width: 295px;
+height: 28px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 115.7%;
+/* identical to box height, or 28px */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+width: 295px;
+height: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+/* or 32px */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 17px;
+
+width: 289px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 50px;
+height: 50px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 7px;
+
+width: 222px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Eco Friendly */
+
+width: 222px;
+height: 28px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 115.7%;
+/* identical to box height, or 28px */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+width: 222px;
+height: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+/* or 32px */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 17px;
+
+width: 289px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 50px;
+height: 50px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+gap: 7px;
+
+width: 222px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Easy Cleaning */
+
+width: 222px;
+height: 28px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 115.7%;
+/* identical to box height, or 28px */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+width: 222px;
+height: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+/* or 32px */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1449px;
+height: 540px;
+left: -4px;
+top: 2314px;
+
+background: #ECECEC;
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1440px;
+height: 714px;
+left: 1px;
+top: 820px;
+
+background: #FFFFFF;
+border: 1px solid #C6C6C6;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 822px;
+left: 0px;
+top: -2px;
+
+background: rgba(190, 190, 190, 0.2);
+
+
+/* Kitchen Tools for you */
+
+position: absolute;
+width: 417px;
+height: 148px;
+left: 100px;
+top: 323px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 115.7%;
+/* or 74px */
+
+color: #000000;
+
+
+
+/* Kitch */
+
+position: absolute;
+width: 128px;
+height: 58px;
+left: 186px;
+top: 64px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 115.7%;
+/* identical to box height, or 58px */
+
+color: #000000;
+
+
+
+/* We know that your home is important to you, just like providing a beautiful product at a value price is important to us. */
+
+position: absolute;
+width: 680px;
+height: 184px;
+left: 389px;
+top: 1026px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 115.7%;
+/* or 46px */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt porttitor in aliquet sed. Consectetur neque velit elementum, cursus tellus arcu odio. */
+
+position: absolute;
+width: 445px;
+height: 91px;
+left: 100px;
+top: 480px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+/* or 32px */
+
+color: #000000;
+
+
+
+/* Quality Solid */
+
+position: absolute;
+width: 309px;
+height: 38px;
+left: 100px;
+top: 285px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 200%;
+/* or 40px */
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 30px;
+gap: 10px;
+
+position: absolute;
+width: 187px;
+height: 60px;
+left: 100px;
+top: 606px;
+
+border: 1px solid #000000;
+border-radius: 50px;
+
+
+/* Explore More */
+
+width: 127px;
+height: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 200%;
+/* identical to box height, or 40px */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 11 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 561px;
+height: 93px;
+left: 440px;
+top: 1571px;
+
+
+
+/* Utensils for beautiful kitchen */
+
+width: 309px;
+height: 38px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 200%;
+/* or 40px */
+text-align: center;
+
+color: #8E8E8E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shop New Nonsticks */
+
+width: 561px;
+height: 46px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 115.7%;
+/* or 46px */
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000002636 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 561px;
+height: 93px;
+left: 440px;
+top: 2896px;
+
+
+
+/* Suitable for all stove */
+
+width: 309px;
+height: 38px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 200%;
+/* or 40px */
+text-align: center;
+
+color: #8E8E8E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Featured Products */
+
+width: 561px;
+height: 46px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 115.7%;
+/* or 46px */
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000002631 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 530px;
+height: 93px;
+left: 440px;
+top: 2362px;
+
+
+
+/* About the product */
+
+width: 309px;
+height: 38px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 200%;
+/* or 40px */
+text-align: center;
+
+color: #8E8E8E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Designed for better cooking */
+
+width: 530px;
+height: 46px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 115.7%;
+/* or 46px */
+text-align: center;
+
+color: #434343;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000002620 */
+
+position: absolute;
+width: 1244px;
+height: 638px;
+left: 98px;
+top: 3634px;
+
+
+
+/* Frame 15 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 561px;
+height: 93px;
+left: 344px;
+top: 0px;
+
+
+
+/* Frame 1000002636 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+width: 561px;
+height: 93px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Suitable for all stove */
+
+width: 309px;
+height: 38px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 200%;
+/* or 40px */
+text-align: center;
+
+color: #8E8E8E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Get everything in one spot */
+
+width: 561px;
+height: 46px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 115.7%;
+/* or 46px */
+text-align: center;
+
+color: #A79982;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 28 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 1244px;
+height: 468px;
+left: 0px;
+top: 170px;
+
+
+
+/* Group 12 */
+
+width: 302px;
+height: 468px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 9 */
+
+position: absolute;
+width: 302px;
+height: 345px;
+left: 0px;
+top: 1px;
+
+background: url(image.png);
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 82px;
+left: 15px;
+top: 358px;
+
+
+
+/* Serving Spatula */
+
+width: 211px;
+height: 23px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #202020;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $199.99 */
+
+width: 90px;
+height: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #969494;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 23 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 100px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 302px;
+height: 468px;
+left: 0px;
+top: 0px;
+
+border: 1px solid #D9D9D9;
+
+
+/* Group 13 */
+
+width: 302px;
+height: 468px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 9 */
+
+position: absolute;
+width: 302px;
+height: 345px;
+left: 314px;
+top: 1px;
+
+background: url(image.png);
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 82px;
+left: 329px;
+top: 358px;
+
+
+
+/* Modern Plate */
+
+width: 211px;
+height: 23px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #202020;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $199.99 */
+
+width: 90px;
+height: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #969494;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 23 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 100px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 302px;
+height: 468px;
+left: 314px;
+top: 0px;
+
+border: 1px solid #D9D9D9;
+
+
+/* Group 14 */
+
+width: 302px;
+height: 468px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* image 9 */
+
+position: absolute;
+width: 302px;
+height: 345px;
+left: 628px;
+top: 1px;
+
+background: url(image.png);
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 82px;
+left: 643px;
+top: 358px;
+
+
+
+/* Mini Pan */
+
+width: 211px;
+height: 23px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #202020;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $199.99 */
+
+width: 90px;
+height: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #969494;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 23 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 100px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* Frame 25 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 10px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 647px;
+top: 13px;
+
+background: #C7A17A;
+border-radius: 10px;
+
+
+/* NEW */
+
+width: 24px;
+height: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 115.7%;
+/* identical to box height, or 13px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 10px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 868px;
+top: 13px;
+
+background: #202020;
+border-radius: 10px;
+
+
+/* SALE */
+
+width: 24px;
+height: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 115.7%;
+/* identical to box height, or 13px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 27 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 10px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 868px;
+top: 35px;
+
+background: #202020;
+border-radius: 10px;
+
+
+/* -15% */
+
+width: 24px;
+height: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 115.7%;
+/* identical to box height, or 13px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 302px;
+height: 468px;
+left: 628px;
+top: 0px;
+
+border: 1px solid #D9D9D9;
+
+
+/* Group 15 */
+
+width: 302px;
+height: 468px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* image 9 */
+
+position: absolute;
+width: 302px;
+height: 345px;
+left: 942px;
+top: 1px;
+
+background: url(image.png);
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 82px;
+left: 957px;
+top: 358px;
+
+
+
+/* Fry Pan */
+
+width: 211px;
+height: 23px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #202020;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $199.99 */
+
+width: 90px;
+height: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #969494;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 23 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 100px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* Frame 25 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 10px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 961px;
+top: 13px;
+
+background: #C7A17A;
+border-radius: 10px;
+
+
+/* NEW */
+
+width: 24px;
+height: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 115.7%;
+/* identical to box height, or 13px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 10px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 1182px;
+top: 13px;
+
+background: #202020;
+border-radius: 10px;
+
+
+/* SALE */
+
+width: 24px;
+height: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 115.7%;
+/* identical to box height, or 13px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 27 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 10px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 1182px;
+top: 35px;
+
+background: #202020;
+border-radius: 10px;
+
+
+/* -15% */
+
+width: 24px;
+height: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 115.7%;
+/* identical to box height, or 13px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 302px;
+height: 468px;
+left: 942px;
+top: 0px;
+
+border: 1px solid #D9D9D9;
+
+
+/* Frame 29 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 1244px;
+height: 468px;
+left: 98px;
+top: 4296px;
+
+
+
+/* Group 12 */
+
+width: 302px;
+height: 468px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 9 */
+
+position: absolute;
+width: 302px;
+height: 345px;
+left: 0px;
+top: 1px;
+
+background: url(image.png);
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 82px;
+left: 15px;
+top: 358px;
+
+
+
+/* Serving Spatula */
+
+width: 211px;
+height: 23px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #202020;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $199.99 */
+
+width: 90px;
+height: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #969494;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 23 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 100px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 302px;
+height: 468px;
+left: 0px;
+top: 0px;
+
+border: 1px solid #D9D9D9;
+
+
+/* Group 13 */
+
+width: 302px;
+height: 468px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 9 */
+
+position: absolute;
+width: 302px;
+height: 345px;
+left: 314px;
+top: 1px;
+
+background: url(image.png);
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 82px;
+left: 329px;
+top: 358px;
+
+
+
+/* Modern Plate */
+
+width: 211px;
+height: 23px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #202020;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $199.99 */
+
+width: 90px;
+height: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #969494;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 23 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 100px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 302px;
+height: 468px;
+left: 314px;
+top: 0px;
+
+border: 1px solid #D9D9D9;
+
+
+/* Group 14 */
+
+width: 302px;
+height: 468px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* image 9 */
+
+position: absolute;
+width: 302px;
+height: 345px;
+left: 628px;
+top: 1px;
+
+background: url(image.png);
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 82px;
+left: 643px;
+top: 358px;
+
+
+
+/* Mini Pan */
+
+width: 211px;
+height: 23px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #202020;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $199.99 */
+
+width: 90px;
+height: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #969494;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 23 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 100px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* Frame 25 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 10px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 647px;
+top: 13px;
+
+background: #C7A17A;
+border-radius: 10px;
+
+
+/* NEW */
+
+width: 24px;
+height: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 115.7%;
+/* identical to box height, or 13px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 10px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 868px;
+top: 13px;
+
+background: #202020;
+border-radius: 10px;
+
+
+/* SALE */
+
+width: 24px;
+height: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 115.7%;
+/* identical to box height, or 13px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 27 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 10px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 868px;
+top: 35px;
+
+background: #202020;
+border-radius: 10px;
+
+
+/* -15% */
+
+width: 24px;
+height: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 115.7%;
+/* identical to box height, or 13px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 302px;
+height: 468px;
+left: 628px;
+top: 0px;
+
+border: 1px solid #D9D9D9;
+
+
+/* Group 15 */
+
+width: 302px;
+height: 468px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* image 9 */
+
+position: absolute;
+width: 302px;
+height: 345px;
+left: 942px;
+top: 1px;
+
+background: url(image.png);
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 82px;
+left: 957px;
+top: 358px;
+
+
+
+/* Fry Pan */
+
+width: 211px;
+height: 23px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #202020;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $199.99 */
+
+width: 90px;
+height: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 115.7%;
+/* or 23px */
+
+color: #969494;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 23 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 100px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* ant-design:star-filled */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #969494;
+
+
+/* Frame 25 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 10px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 961px;
+top: 13px;
+
+background: #C7A17A;
+border-radius: 10px;
+
+
+/* NEW */
+
+width: 24px;
+height: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 115.7%;
+/* identical to box height, or 13px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 10px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 1182px;
+top: 13px;
+
+background: #202020;
+border-radius: 10px;
+
+
+/* SALE */
+
+width: 24px;
+height: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 115.7%;
+/* identical to box height, or 13px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 27 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 10px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 1182px;
+top: 35px;
+
+background: #202020;
+border-radius: 10px;
+
+
+/* -15% */
+
+width: 24px;
+height: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 115.7%;
+/* identical to box height, or 13px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 302px;
+height: 468px;
+left: 942px;
+top: 0px;
+
+border: 1px solid #D9D9D9;
+
+
+/* Frame 1000002618 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+width: 1246px;
+height: 316px;
+left: 91px;
+top: 5727px;
+
+
+
+/* Frame 33 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+width: 561px;
+height: 46px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Follow Us on @Cookware */
+
+width: 561px;
+height: 46px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 115.7%;
+/* or 46px */
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 36 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 27px;
+
+width: 1246px;
+height: 230px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 34 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 24px;
+
+width: 1246px;
+height: 230px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 8 */
+
+width: 230px;
+height: 230px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 9 */
+
+width: 230px;
+height: 230px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 11 */
+
+width: 230px;
+height: 230px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 12 */
+
+width: 230px;
+height: 230px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Rectangle 10 */
+
+width: 230px;
+height: 230px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 1000002617 */
+
+position: absolute;
+width: 1240px;
+height: 732px;
+left: 100px;
+top: 4890px;
+
+
+
+/* Frame 37 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 561px;
+height: 93px;
+left: 339px;
+top: 0px;
+
+
+
+/* What Happens Here */
+
+width: 309px;
+height: 38px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 200%;
+/* or 48px */
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* News & Insights */
+
+width: 561px;
+height: 46px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 115.7%;
+/* or 46px */
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 16 */
+
+position: absolute;
+width: 400px;
+height: 573px;
+left: 0px;
+top: 159px;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 400px;
+height: 573px;
+left: 0px;
+top: 159px;
+
+
+
+/* July 22, 2020 | 0 Comments */
+
+position: absolute;
+width: 219px;
+height: 27px;
+left: 14px;
+top: 494px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 200%;
+/* or 30px */
+
+color: #000000;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 376px;
+height: 255px;
+left: 12px;
+top: 171px;
+
+background: url(image.png);
+
+
+/* Blog Title */
+
+position: absolute;
+width: 254px;
+height: 28px;
+left: 12px;
+top: 442px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 115.7%;
+/* identical to box height, or 28px */
+
+color: #5B5B5B;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 374px;
+height: 0px;
+left: 14px;
+top: 486px;
+
+border: 1px solid #000000;
+
+
+/* Frame 39 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 25px;
+
+position: absolute;
+width: 374px;
+height: 173px;
+left: 12px;
+top: 537px;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Gravida risus aliquam integer tempor. Euismod vel magna pellentesque aliquet neque. Gravida gravida morbi hac velit mi quis. */
+
+width: 374px;
+height: 88px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 38 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 30px;
+gap: 10px;
+
+width: 167px;
+height: 60px;
+
+background: #000000;
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Read More */
+
+width: 107px;
+height: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 200%;
+/* identical to box height, or 40px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 17 */
+
+position: absolute;
+width: 400px;
+height: 573px;
+left: 424px;
+top: 159px;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 400px;
+height: 573px;
+left: 424px;
+top: 159px;
+
+
+
+/* July 22, 2020 | 0 Comments */
+
+position: absolute;
+width: 219px;
+height: 27px;
+left: 438px;
+top: 494px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 200%;
+/* or 30px */
+
+color: #000000;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 376px;
+height: 255px;
+left: 436px;
+top: 171px;
+
+background: url(image.png);
+
+
+/* Blog Title */
+
+position: absolute;
+width: 254px;
+height: 28px;
+left: 436px;
+top: 442px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 115.7%;
+/* identical to box height, or 28px */
+
+color: #5B5B5B;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 374px;
+height: 0px;
+left: 438px;
+top: 486px;
+
+border: 1px solid #000000;
+
+
+/* Frame 39 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 25px;
+
+position: absolute;
+width: 374px;
+height: 173px;
+left: 436px;
+top: 537px;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Gravida risus aliquam integer tempor. Euismod vel magna pellentesque aliquet neque. Gravida gravida morbi hac velit mi quis. */
+
+width: 374px;
+height: 88px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 38 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 30px;
+gap: 10px;
+
+width: 167px;
+height: 60px;
+
+background: #000000;
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Read More */
+
+width: 107px;
+height: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 200%;
+/* identical to box height, or 40px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 400px;
+height: 573px;
+left: 840px;
+top: 159px;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 400px;
+height: 573px;
+left: 840px;
+top: 159px;
+
+
+
+/* July 22, 2020 | 0 Comments */
+
+position: absolute;
+width: 219px;
+height: 27px;
+left: 854px;
+top: 494px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 200%;
+/* or 30px */
+
+color: #000000;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 376px;
+height: 255px;
+left: 852px;
+top: 171px;
+
+background: url(image.png);
+
+
+/* Blog Title */
+
+position: absolute;
+width: 254px;
+height: 28px;
+left: 852px;
+top: 442px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 115.7%;
+/* identical to box height, or 28px */
+
+color: #5B5B5B;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 374px;
+height: 0px;
+left: 854px;
+top: 486px;
+
+border: 1px solid #000000;
+
+
+/* Frame 39 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 25px;
+
+position: absolute;
+width: 374px;
+height: 173px;
+left: 852px;
+top: 537px;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Gravida risus aliquam integer tempor. Euismod vel magna pellentesque aliquet neque. Gravida gravida morbi hac velit mi quis. */
+
+width: 374px;
+height: 88px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 38 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 30px;
+gap: 10px;
+
+width: 167px;
+height: 60px;
+
+background: #000000;
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Read More */
+
+width: 107px;
+height: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 200%;
+/* identical to box height, or 40px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000002616 */
+
+position: absolute;
+width: 1442px;
+height: 407px;
+left: -2px;
+top: 6168px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 1447px;
+height: 58px;
+left: 0px;
+top: 349px;
+
+background: #000000;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 1440px;
+height: 357px;
+left: 2px;
+top: 0px;
+
+background: #FBF9F5;
+
+
+/* Frame 1000002615 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 117px;
+
+position: absolute;
+width: 1237px;
+height: 306px;
+left: 102px;
+top: 43px;
+
+
+
+/* Frame 1000002614 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 17px;
+
+width: 374px;
+height: 233px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 90 */
+
+width: 128px;
+height: 128px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Gravida risus aliquam integer tempor. Euismod vel magna pellentesque aliquet neque. Gravida gravida morbi hac velit mi quis. */
+
+width: 374px;
+height: 88px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+
+color: #525050;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000002611 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 9px;
+
+width: 153px;
+height: 306px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* OUR STORES */
+
+width: 153px;
+height: 38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #525050;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line 2 */
+
+width: 85.01px;
+height: 0px;
+
+border: 2px solid #525050;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Home About Us Gallery Wishlist Food Menu */
+
+width: 99px;
+height: 250px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 50px;
+/* or 278% */
+
+color: #525050;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 1000002612 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 9px;
+
+width: 155px;
+height: 306px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* QUICK LINKS */
+
+width: 155px;
+height: 38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #525050;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line 2 */
+
+width: 85.01px;
+height: 0px;
+
+border: 2px solid #525050;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Home About Us Gallery Wishlist Food Menu */
+
+width: 99px;
+height: 250px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 50px;
+/* or 278% */
+
+color: #525050;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 1000002613 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 9px;
+
+width: 204px;
+height: 306px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* PRIVACY POLICY */
+
+width: 204px;
+height: 38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #525050;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line 2 */
+
+width: 85.01px;
+height: 0px;
+
+border: 2px solid #525050;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Privacy Policy Returns Terms & Conditions Contact Us Latest News */
+
+width: 181px;
+height: 250px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 50px;
+/* or 278% */
+
+color: #525050;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Copyright Cookware 2022 */
+
+position: absolute;
+width: 201px;
+height: 23px;
+left: 102px;
+top: 370px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* image 10 */
+
+position: absolute;
+width: 400px;
+height: 40px;
+left: 939px;
+top: 362px;
+
+background: url(image.png);
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 399px;
+height: 19px;
+left: 415px;
+top: 41px;
+
+
+
+/* Home */
+
+width: 45px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shop */
+
+width: 39px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Products */
+
+width: 68px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Blog */
+
+width: 34px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Contact Us */
+
+width: 85px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 88.96%;
+right: 9.51%;
+top: 0.55%;
+bottom: 99.12%;
+
+background: #000000;
+
+
+/* Mask group */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 1317px;
+top: 35px;
+
+
+
+/* image 5 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 1317px;
+top: 35px;
+
+background: url(image.png);
+
+
+/* image 6 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 1317px;
+top: 35px;
+
+background: #000000;
+
+
+/* image 14 */
+
+position: absolute;
+width: 113px;
+height: 107px;
+left: 668px;
+top: 855px;
+
+background: url(image.png);
+
+
+/* image 15 */
+
+position: absolute;
+width: 219px;
+height: 114px;
+left: 619px;
+top: 1274px;
+
+background: url(image.png);
+
+
+/* Frame 1000002628 */
+
+position: absolute;
+width: 401px;
+height: 478px;
+left: 99px;
+top: 1732px;
+
+
+
+/* Rectangle 15 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 401px;
+height: 478px;
+left: 0px;
+top: 0px;
+
+border: 1px solid #C1C1C1;
+
+
+/* Frame 1000002627 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 25px;
+
+position: absolute;
+width: 341px;
+height: 443px;
+left: 30px;
+top: 30px;
+
+
+
+/* Rectangle 16 */
+
+width: 341px;
+height: 341px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000002626 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 211px;
+height: 77px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Iron Pan */
+
+width: 211px;
+height: 37px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 115.7%;
+/* identical to box height, or 37px */
+text-align: center;
+
+color: #545454;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $199.99 */
+
+width: 112px;
+height: 40px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 200%;
+/* identical to box height, or 40px */
+text-align: center;
+
+color: #8E8E8E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000002629 */
+
+position: absolute;
+width: 401px;
+height: 478px;
+left: 520px;
+top: 1732px;
+
+
+
+/* Rectangle 15 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 401px;
+height: 478px;
+left: 0px;
+top: 0px;
+
+border: 1px solid #C1C1C1;
+
+
+/* Frame 1000002627 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 25px;
+
+position: absolute;
+width: 341px;
+height: 443px;
+left: 30px;
+top: 30px;
+
+
+
+/* Rectangle 16 */
+
+width: 341px;
+height: 341px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000002626 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 259px;
+height: 77px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Non-Stick Pan */
+
+width: 259px;
+height: 37px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 115.7%;
+/* identical to box height, or 37px */
+text-align: center;
+
+color: #545454;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $199.99 */
+
+width: 112px;
+height: 40px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 200%;
+/* identical to box height, or 40px */
+text-align: center;
+
+color: #8E8E8E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000002630 */
+
+position: absolute;
+width: 401px;
+height: 478px;
+left: 940px;
+top: 1732px;
+
+
+
+/* Rectangle 15 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 401px;
+height: 478px;
+left: 0px;
+top: 0px;
+
+border: 1px solid #C1C1C1;
+
+
+/* Frame 1000002627 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 25px;
+
+position: absolute;
+width: 341px;
+height: 443px;
+left: 30px;
+top: 30px;
+
+
+
+/* Rectangle 16 */
+
+width: 341px;
+height: 341px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000002626 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 211px;
+height: 77px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Iron Pan */
+
+width: 211px;
+height: 37px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 115.7%;
+/* identical to box height, or 37px */
+text-align: center;
+
+color: #545454;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $199.99 */
+
+width: 112px;
+height: 40px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 200%;
+/* identical to box height, or 40px */
+text-align: center;
+
+color: #8E8E8E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000002635 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 88px;
+
+position: absolute;
+width: 1232px;
+height: 238px;
+left: 99px;
+top: 2523px;
+
+
+
+/* Frame 32 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 38px;
+
+width: 242px;
+height: 238px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 6 */
+
+width: 95px;
+height: 95px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000002632 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 242px;
+height: 105px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* No Chemical */
+
+width: 242px;
+height: 30px;
+
+font-family: 'Lora';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis dui et mauris odio urna. */
+
+width: 218px;
+height: 68px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #323232;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000002632 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 38px;
+
+width: 242px;
+height: 238px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 6 */
+
+width: 95px;
+height: 95px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000002632 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 242px;
+height: 105px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Earth Friendly */
+
+width: 242px;
+height: 30px;
+
+font-family: 'Lora';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis dui et mauris odio urna. */
+
+width: 218px;
+height: 68px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #323232;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000002633 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 38px;
+
+width: 242px;
+height: 238px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* image 6 */
+
+width: 95px;
+height: 95px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000002632 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 242px;
+height: 105px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Recyclable */
+
+width: 242px;
+height: 30px;
+
+font-family: 'Lora';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis dui et mauris odio urna. */
+
+width: 218px;
+height: 68px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #323232;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000002634 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 38px;
+
+width: 242px;
+height: 238px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* image 6 */
+
+width: 95px;
+height: 95px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000002632 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 242px;
+height: 105px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Durable */
+
+width: 242px;
+height: 30px;
+
+font-family: 'Lora';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis dui et mauris odio urna. */
+
+width: 218px;
+height: 68px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #323232;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 16 */
+
+position: absolute;
+width: 494px;
+height: 632px;
+left: 473px;
+top: 2981px;
+
+background: url(image.png);
+
+
+/* image 89 */
+
+position: absolute;
+width: 908px;
+height: 908px;
+left: 680px;
+top: 72px;
+
+background: url(image.png);
+filter: drop-shadow(0px 15px 21px rgba(0, 0, 0, 0.25));
+
+
+/* image 92 */
+
+position: absolute;
+width: 86px;
+height: 86px;
+left: 100px;
+top: 50px;
+
+background: url(image.png);
