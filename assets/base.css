@@ -544,6 +544,10 @@ table:not([class]) th {
   border: 0.1rem solid rgba(var(--color-foreground), 0.2);
 }
 
+.hidden {
+  display: none !important;
+}
+
 @media screen and (max-width: 749px) {
   .small-hide {
     display: none !important;
@@ -2160,7 +2164,7 @@ input[type='checkbox'] {
 .announcement-bar__link {
   display: block;
   width: 100%;
-  padding: 1rem 0;
+  padding: 1rem 2rem;
   text-decoration: none;
 }
 
@@ -2182,7 +2186,8 @@ input[type='checkbox'] {
 }
 
 .announcement-bar__message {
-  padding: 1rem 0;
+  text-align: center;
+  padding: 1rem 2rem;
   margin: 0;
   letter-spacing: 0.1rem;
 }
@@ -2882,33 +2887,28 @@ details-disclosure > details {
   font-weight: var(--font-body-weight-bold);
 }
 
-/* outline and border styling for Windows High Contrast Mode */
-@media (forced-colors: active) {
-  .button,
-  .shopify-challenge__button,
-  .customer button {
-    border: transparent solid 1px;
-  }
+#SearchDrawer {
+  z-index:1001;
+}
 
-  .button:focus-visible,
-  .button:focus,
-  .button.focused,
-  .shopify-payment-button__button--unbranded:focus-visible,
-  .shopify-payment-button [role="button"]:focus-visible,
-  .shopify-payment-button__button--unbranded:focus,
-  .shopify-payment-button [role="button"]:focus {
-    outline: solid transparent 1px;
-  }
+.site-header {
+  position: fixed;
+  z-index:1000;
+  left:0;
+  right:0;
+  -webkit-box-shadow:0px 2px 4px 0px rgba(0,0,0,.1);
+  -moz-box-shadow:0px 2px 4px 0px rgba(0,0,0,.1);
+  -ms-box-shadow:0px 2px 4px 0px rgba(0,0,0,.1);
+  -o-box-shadow:0px 2px 4px 0px rgba(0,0,0,.1);
+  box-shadow:0px 2px 4px 0px rgba(0,0,0,.1);
+}
 
-  .field__input:focus,
-  .select__select:focus,
-  .customer .field input:focus,
-  .customer select:focus,
-  .localization-form__select:focus.localization-form__select:after {
-    outline: transparent solid 1px;
-  }
+#PageContainer {
+  padding-top: 80px;
+}
 
-  .localization-form__select:focus {
-    outline: transparent solid 1px;
-  }
+@media screen and (max-width: 749px) {
+#PageContainer {
+  padding-top: 70px;
+}
 }
