@@ -2887,3 +2887,5 @@ details-disclosure > details {
   font-weight: var(--font-body-weight-bold);
 }
 
+/********************************* customize css ************************/
+@import 'custom.css'
