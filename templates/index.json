@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "heading": "Kitchen Tools For You",
-            "heading_size": "h0"
+            "heading_size": "h2"
           }
         },
         "text": {
@@ -35,7 +35,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/image_89.png",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": true,
