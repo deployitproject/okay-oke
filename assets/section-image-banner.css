@@ -436,3 +436,6 @@
 .banner__box > * + .banner__buttons {
   margin-top: 2rem;
 }
+
+/***************** customize css **********/
+@import "custom.css"
